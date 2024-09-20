@@ -41,7 +41,7 @@ const Banner = () => {
             <span className="absolute w-full h-[1px] bg-textGreen left-0 bottom-1 -translate-x-[110%] group-hover:translate-x-0 transition-transform duration-500"></span>
           </span>
         </a> */}
-        <img src="machinehand.png" height="420" className="sideimage"></img>
+        {/* <img src="machinehand.png" height="420" className="sideimage"  alt="My logo"></img> */}
       </motion.p>
       <a href="https://github.com/dee-coder" target="_blank">
         <motion.button
